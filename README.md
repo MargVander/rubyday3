@@ -1,5 +1,5 @@
 Lien du repo : https://github.com/MargVander/rubyday3
-Partner in crime :
+Partner in crime : Picasso6 (Alex Dnz)
 
 Exercice 00_hello.rg : J'ai utilisé deux méthodes, une servant à ce que l'utilisateur puisse indiquer son nom. La seconde fait appel à cette information entré dans la première méthode afin de la combiner avec le "Hello" afin de pouvoir dire bonjour à l'utilisateur.
 
