@@ -37,13 +37,3 @@ def welcome_screen
 end
 
 welcome_screen
-
-
-#ask_signup
-#ask_signup = signup
-#puts "Inscris ton mot de passe"
-#print ">"
-#mdp = gets.chomp
-#if mdp = signup
-#	puts "connecté"
-#end
